@@ -1,0 +1,2 @@
+FreeRTOS filter=lfs diff=lfs merge=lfs -text
+FreeRTOS-Plus filter=lfs diff=lfs merge=lfs -text
